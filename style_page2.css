@@ -1,0 +1,75 @@
+.site-navigation
+{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.navbar
+{
+    margin-top: 20px;
+}
+
+.navbar .nav
+{
+    padding: 70px;
+}
+
+.nav > li
+{
+    margin-bottom: 30px;
+}
+
+.col-sm-12
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.form-group
+{
+    padding: 15px;
+}
+
+.cta-hero
+{
+    border-radius: 30px;
+}
+
+.formulaire
+{
+    display: flex;
+}
+
+.form-group input 
+{
+    margin: 10px;
+    border-radius: 8px;
+    border-width: thin;
+    padding: 5px;
+    margin-left: 0px;
+}
+
+.navbar_row
+{
+    margin-left: 20px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.form-group
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.icone_fleche
+{
+    padding: 23px;
+}
+
+
